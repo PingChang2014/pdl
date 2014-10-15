@@ -1,4 +1,4 @@
-#include <stadio.h>（My first C program.）
+#include <stadio.h>（My first C.）
 int main()
 {
 int i,j,k;
